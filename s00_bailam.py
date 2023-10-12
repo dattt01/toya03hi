@@ -30,7 +30,7 @@ hi('1', '22', '333', '4444') | Hi 1, 22, 333 and 4444!
 #endregion debai
 
 #region bailam
-def hi(name=None):
+def hi(name=None): 
   ketqua =  ''
   if not name:
     ketqua = f'Hi!'
